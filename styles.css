@@ -172,3 +172,71 @@ body {
   color: rgb(7, 62, 83);
   font-size: 1.1rem;
 }
+.right-title-educationbackground {
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: rgb(141, 168, 192);
+  padding-bottom: 1.2rem;
+  padding-left: 2rem;
+  position: relative;
+  padding-top: 2rem;
+}
+
+.para-2 {
+  padding-left: 2rem;
+  line-height: 1.6rem;
+  color: rgb(7, 62, 83);
+  font-size: 1.1rem;
+}
+
+.right-title-projects {
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: rgb(141, 168, 192);
+  padding-bottom: 1.2rem;
+  padding-left: 2rem;
+  position: relative;
+  padding-top: 2rem;
+}
+
+.para-3 {
+  padding-left: 2rem;
+  line-height: 1.6rem;
+  color: rgb(7, 62, 83);
+  font-size: 1.1rem;
+}
+
+.project-1 {
+  padding-bottom: 2rem;
+  padding-left: 2rem;
+  color: rgb(7, 62, 83);
+  font-size: 1.1rem;
+}
+
+.para-4 {
+  padding-left: 2rem;
+  line-height: 1.6rem;
+  color: rgb(7, 62, 83);
+  font-size: 1.1rem;
+}
+.project-2 {
+  padding-bottom: 2rem;
+  padding-left: 2rem;
+  color: rgb(7, 62, 83);
+  font-size: 1.1rem;
+  padding-top: 2rem;
+}
+.para-5 {
+  padding-left: 2rem;
+  line-height: 1.6rem;
+  color: rgb(7, 62, 83);
+  font-size: 1.1rem;
+  padding-bottom: 2rem;
+}
+.project-3 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-left: 2rem;
+  color: rgb(7, 62, 83);
+  font-size: 1.1rem;
+}
