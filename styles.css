@@ -6,7 +6,7 @@
   font-family: "Nunito", sans-serif;
 }
 body {
-  background-color: rgb(2, 39, 16);
+  background-color: rgb(34, 0, 34);
 }
 .main-content {
   min-height: 100vh;
@@ -20,4 +20,54 @@ body {
   grid-column: span 2;
   height: 100%;
   background-color: rgb(3, 69, 71);
+}
+
+.profile {
+  width: 100%;
+  border-bottom: 1px solid rgb(156, 206, 207);
+}
+
+.profile img {
+  width: 100%;
+  border-radius: 50%;
+  border: 8px solid #f2f2f2;
+}
+.name {
+  font-size: 2rem;
+  color: #f2f2f2;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 1.2rem 0;
+  letter-spacing: 10px;
+}
+
+.career {
+  font-size: 1.4rem;
+  color: rgb(181, 181, 228);
+  text-align: center;
+  text-transform: uppercase;
+  padding-bottom: 1.2rem;
+}
+.main-title {
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: rgb(141, 168, 192);
+  padding-top: 3rem;
+}
+
+.contact-info ul {
+  padding: 2rem;
+}
+.contact-info ul li {
+  padding: 0.4rem 0;
+  display: flex;
+  align-items: center;
+  color: rgb(88, 138, 182);
+}
+
+.contact-info ul li i {
+  padding-right: 1rem;
+  font-size: 1.2rem;
+  color: rgb(26, 6, 71);
 }
