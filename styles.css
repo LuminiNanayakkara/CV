@@ -8,3 +8,16 @@
 body {
   background-color: rgb(2, 39, 16);
 }
+.main-content {
+  min-height: 100vh;
+  width: 80%;
+  margin: 2rem auto;
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+}
+
+.left-section {
+  grid-column: span 2;
+  height: 100%;
+  background-color: rgb(3, 69, 71);
+}
